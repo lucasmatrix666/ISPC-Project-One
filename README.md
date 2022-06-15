@@ -1,1 +1,0 @@
-# Conceptos de Scrum
