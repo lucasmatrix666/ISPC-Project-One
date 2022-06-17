@@ -18,3 +18,14 @@ No son reuniones de reporte de estado al Scrum Master, son compromisos frente a 
 # Concepto Sprint Review 
 
 Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
+
+# Artefactos de Scrum 
+
+Representan trabajo o valor. Estan diseñados para maximizar la transparencia de la informacion clave. Todas las personas que los inspeccionan tienen la misma base de adaptacion.
+Cada artefacto contiene un compromiso para garantizar que proporcione informacion que mejore la trasnparencia y el enfoque frente al cual se pueda medir el preogreso:
+
+-Para el Product Backlog, es el Objetivo del Producto.
+-Para el Sprint Backlog, es el Objetivo del Sprint.
+-Para el Increment, es la definicion de Terminado.
+
+Estos compromisos existen para reforzar el empirismo y los valores de Scrum para el Scrum Team y sus interesados.
