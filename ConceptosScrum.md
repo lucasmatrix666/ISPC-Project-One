@@ -18,6 +18,7 @@ No son reuniones de reporte de estado al Scrum Master, son compromisos frente a 
 # Concepto Sprint Review 
 
 Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
+<<<<<<< HEAD
 
 # Artefactos de Scrum 
 
@@ -29,3 +30,8 @@ Cada artefacto contiene un compromiso para garantizar que proporcione informacio
 -Para el Increment, es la definicion de Terminado.
 
 Estos compromisos existen para reforzar el empirismo y los valores de Scrum para el Scrum Team y sus interesados.
+=======
+# Concepto Sprint Retrospective
+
+Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+>>>>>>> 60d3e8a34928dc6c703307b330c2148bb88980b9
