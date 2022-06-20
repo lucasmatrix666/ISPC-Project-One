@@ -38,3 +38,6 @@ Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce 
  Una base de datos es un sistema formado por un conjunto de datos almacenados en discos que permiten el acceso directo a ellos y un conjunto de programas que manipulen ese conjunto de datos.
 # Gestores de Bases de Datos 
 son programas que permiten almacenar y luego acceder a los datos de forma estructurada y rápida. Las aplicaciones más usadas son para gestiones de empresas e instituciones públicas, así como en entornos científicos, para almacenar la información experimental.
+
+# Rol Developer
+Los Developers (o Desarrolladores) es uno de los tres roles en Scrum y se compone de todas las personas que se van a encargar de construir el Incremento de Producto en cada Sprint.
