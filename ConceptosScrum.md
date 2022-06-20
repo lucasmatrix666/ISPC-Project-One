@@ -32,3 +32,6 @@ Estos compromisos existen para reforzar el empirismo y los valores de Scrum para
 # Concepto Sprint Retrospective
 
 Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+
+# Conceto Base de Datos
+ Una base de datos es un sistema formado por un conjunto de datos almacenados en discos que permiten el acceso directo a ellos y un conjunto de programas que manipulen ese conjunto de datos.
