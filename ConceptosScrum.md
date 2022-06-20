@@ -24,6 +24,7 @@ Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finaliza
 Representan trabajo o valor. Estan diseñados para maximizar la transparencia de la informacion clave. Todas las personas que los inspeccionan tienen la misma base de adaptacion.
 Cada artefacto contiene un compromiso para garantizar que proporcione informacion que mejore la trasnparencia y el enfoque frente al cual se pueda medir el preogreso:
 
+
 - Para el Product Backlog, es el Objetivo del Producto.
 - Para el Sprint Backlog, es el Objetivo del Sprint.
 - Para el Increment, es la definicion de Terminado.
@@ -35,3 +36,5 @@ Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce 
 
 # Conceto Base de Datos
  Una base de datos es un sistema formado por un conjunto de datos almacenados en discos que permiten el acceso directo a ellos y un conjunto de programas que manipulen ese conjunto de datos.
+# Gestores de Bases de Datos 
+son programas que permiten almacenar y luego acceder a los datos de forma estructurada y rápida. Las aplicaciones más usadas son para gestiones de empresas e instituciones públicas, así como en entornos científicos, para almacenar la información experimental.
