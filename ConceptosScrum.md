@@ -19,6 +19,12 @@ No son reuniones de reporte de estado al Scrum Master, son compromisos frente a 
 
 Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
 
+
+# Concepto Spint Planning
+
+Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
+Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+
 # Artefactos de Scrum 
 
 Representan trabajo o valor. Estan diseñados para maximizar la transparencia de la informacion clave. Todas las personas que los inspeccionan tienen la misma base de adaptacion.
