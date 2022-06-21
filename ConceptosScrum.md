@@ -19,11 +19,16 @@ No son reuniones de reporte de estado al Scrum Master, son compromisos frente a 
 
 Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
 
+
+# Concepto Spint Planning
+
+Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
+Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+
 # Artefactos de Scrum 
 
 Representan trabajo o valor. Estan diseñados para maximizar la transparencia de la informacion clave. Todas las personas que los inspeccionan tienen la misma base de adaptacion.
 Cada artefacto contiene un compromiso para garantizar que proporcione informacion que mejore la trasnparencia y el enfoque frente al cual se pueda medir el preogreso:
-
 
 - Para el Product Backlog, es el Objetivo del Producto.
 - Para el Sprint Backlog, es el Objetivo del Sprint.
@@ -33,11 +38,6 @@ Estos compromisos existen para reforzar el empirismo y los valores de Scrum para
 # Concepto Sprint Retrospective
 
 Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
-
-# Conceto Base de Datos
- Una base de datos es un sistema formado por un conjunto de datos almacenados en discos que permiten el acceso directo a ellos y un conjunto de programas que manipulen ese conjunto de datos.
-# Gestores de Bases de Datos 
-son programas que permiten almacenar y luego acceder a los datos de forma estructurada y rápida. Las aplicaciones más usadas son para gestiones de empresas e instituciones públicas, así como en entornos científicos, para almacenar la información experimental.
 
 # Rol Developer
 Los Developers (o Desarrolladores) es uno de los tres roles en Scrum y se compone de todas las personas que se van a encargar de construir el Incremento de Producto en cada Sprint.
