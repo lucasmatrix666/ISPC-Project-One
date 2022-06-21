@@ -1,4 +1,3 @@
-![](https://img.shields.io/github/contributors/FrancoGL/ISPC-Project-One?color=y)
 ![](https://img.shields.io/github/issues/FrancoGL/ISPC-Project-One?color=green)
 ![](https://img.shields.io/github/issues-closed-raw/FrancoGL/ISPC-Project-One?color=red)
 
