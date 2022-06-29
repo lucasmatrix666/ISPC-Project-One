@@ -1,5 +1,8 @@
 # Conceptos de Scrum
 
+# Product owner 
+Es uno de los roles dentro del equipo Scrum, encargado de maximizar el valor de trabajo entregado y del retorno de inversión (ROI). Es el representante del cliente dentro del equipo. Su voz, representa a las partes interesadas internas y es responsable de entregar el valor más alto posible al negocio.
+
 
 # Scrum Master
 El Scrum Master tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y eventos si es necesario.
