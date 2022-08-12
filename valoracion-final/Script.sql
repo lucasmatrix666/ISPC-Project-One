@@ -38,7 +38,7 @@ CREATE TABLE historial (
 # Inserción de datos en la tabla dueño
 INSERT INTO dueno (dni, nombre, apellido, telefono, dirección) 
 VALUES
- (22572196, "Alwyn" , "De Biasi" , 1723858962, "22 Clarendon Pass"),
+ (22572196, "Pedro" , "De Biasi" , 1723858962, "22 Clarendon Pass"),
  (17230272, "Gabrila", "Jendrach", 2519599103, "0323 Corben Hill"),
  (57025451, "Ruby", "Adamowicz", 3965984582,"0051 Morrow Parkway"),
  (21527973, "Irena", "Battey", 7317298032, "0 Northfield Way"),
@@ -47,18 +47,17 @@ VALUES
 # Inserción de datos en la tabla perro
 INSERT INTO perro (nombre, fecha_nac, sexo, dni_dueno) 
 VALUES 
-  ("Trueno", "2022-04-25", "Macho", 57025451),
+  ("Trueno", "2020-09-17", "Macho", 57025451),
   ("Mancha", "2021-08-17", "Hembra", 22572196),
   ("Centella", "2022-06-17", "Hembra", 21527973),
-  ("Tobi", "2021-11-16", "Macho", 88691162),
+  ("Tobi", "2019-12-27", "Macho", 88691162),
   ("Campanita", "2021-10-21", "Hembra", 17230272);
 
 # Inserción de datos en la tabla historial
-
 INSERT INTO historial (fecha, perro, descripcion, monto)
 VALUES 
-  ("2022-01-02",	3,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 872.84),
-  ("2022-01-02",	5,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 360.68),
-  ("2022-01-02",	2,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 639.16),
-  ("2022-01-02",	4,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 172.29),
-  ("2022-01-02",	1,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 947.10);
+  ("2020-07-11",	3,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 872.84),
+  ("2021-10-30",	5,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 360.68),
+  ("2022-08-09",	2,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 639.16),
+  ("2021-04-29",	4,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 172.29),
+  ("2022-03-14",	1,	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam", 947.10);
